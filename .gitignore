@@ -1,0 +1,10 @@
+.idea/
+build/
+*.o
+_*.c
+cmake-build-debug/
+*.json
+*.json5
+tmp/
+
+unpack
